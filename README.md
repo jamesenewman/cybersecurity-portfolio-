@@ -2,7 +2,7 @@
 
 ### 1. Foundations of Cybersecurity
 - **Project:** Cybersecurity Reflection Write-Up  
-- **Deliverable:** [Link to PDF]  
+- Deliverable: [Foundations – Cybersecurity Reflection (PDF)](projects/foundations-reflection/Foundations – Cybersecurity Reflection.pdf) 
 
 ### 2. Risk Assessment
 - **Project:** Small Business Risk Matrix  
