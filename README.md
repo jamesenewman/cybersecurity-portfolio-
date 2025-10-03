@@ -5,7 +5,7 @@
 - **Deliverable:** [Foundations – Cybersecurity Reflection (PDF)](Cybersecurity%20Reflection%20Write-Up.pdf)
 
 ### 2. Risk Assessment✅
-- **Project:** Small Business Risk Matrix  
+- **Project:** Small & Large Business Risk Matrix  
 - **Deliverable: [Project 2: Risk Assessment PDF](Project-2_Risk-Assessment.pdf)
 
 ### 3. Network Security⏳
