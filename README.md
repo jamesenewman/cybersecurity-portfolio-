@@ -6,7 +6,7 @@
 
 ### 2. Risk Assessment⏳
 - **Project:** Small Business Risk Matrix  
-• Deliverable: [Project 2: Risk Assessment PDF](Project-2_Risk-Assessment.pdf)
+- **Deliverable: [Project 2: Risk Assessment PDF](Project-2_Risk-Assessment.pdf)
 
 ### 3. Network Security⏳
 - **Project:** Office/Home Network Diagram  
