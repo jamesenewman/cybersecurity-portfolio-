@@ -1,6 +1,6 @@
 ## 📂 Projects
 
-### 1. Foundations of Cybersecurity
+### 1. Foundations of Cybersecurity✅
 - **Project:** Cybersecurity Reflection Write-Up  
 - **Deliverable:** [Foundations – Cybersecurity Reflection (PDF)](Cybersecurity%20Reflection%20Write-Up.pdf)
 
